@@ -1,0 +1,47 @@
+
+images1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+car
+  rotate: false
+  xy: 2, 2
+  size: 30, 60
+  orig: 30, 60
+  offset: 0, 0
+  index: -1
+hudLayout
+  rotate: false
+  xy: 34, 2
+  size: 240, 42
+  orig: 240, 42
+  offset: 0, 0
+  index: -1
+finish
+  rotate: false
+  xy: 276, 2
+  size: 240, 40
+  orig: 240, 40
+  offset: 0, 0
+  index: -1
+road
+  rotate: false
+  xy: 34, 46
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+grass
+  rotate: false
+  xy: 46, 46
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+progressIndicator
+  rotate: false
+  xy: 58, 46
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
